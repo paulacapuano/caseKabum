@@ -1,0 +1,37 @@
+#login-fail{
+    display: none;
+}
+
+.main-contato{
+    margin: auto;
+    width: 80%;
+}
+.login form{
+    float: left;
+    margin: 40px 0;
+    width: 45%;
+}
+.cadastro form{
+    float: right;
+    margin: 40px 0;
+    width: 45%;
+}
+form label{
+display: block;
+font-size: large;
+margin-top: 10px;
+}
+form input{
+display: block;
+padding: 5px;
+margin-top: 3px;
+width: 60%;
+}
+.btnazul{
+    width: 30%;
+    background-color: #0b132b;
+    color: #FFFCF2;
+    text-transform: uppercase;
+    margin-top: 15px;
+    font-weight: bold;
+}
